@@ -1,0 +1,48 @@
+{
+    "python.showStartPage": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "python.pythonPath": "C:\\Users\\Vitor\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": -1,
+    "html.format.indentInnerHtml": true,
+    "html.format.extraLiners": "",
+    "emmet.triggerExpansionOnTab": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "python.defaultInterpreterPath": "C:\\Users\\Vitor\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDelete": false,
+    "json.maxItemsComputed": 10000,
+    "explorer.confirmDragAndDrop": false,
+    "jupyter.jupyterServerType": "local",
+    "editor.rulers": [
+        73,
+        80,
+        100,
+        120
+    ],
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": "'ss03', 'ss05', 'ss06', 'ss07', 'ss08', 'zero'",
+    "liveshare.allowInvites": "all",
+    "liveshare.alwaysFollowHost": true,
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "jupyter.askForKernelRestart": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Kimbie Dark"
+
+}
