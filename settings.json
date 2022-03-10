@@ -1,18 +1,16 @@
 {
-    "python.showStartPage": false,
     "C_Cpp.updateChannel": "Insiders",
     "latex-workshop.view.pdf.viewer": "tab",
-    "python.pythonPath": "C:\\Users\\Vitor\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
+        "*.ipynb": "jupyter-notebook",
+        "*.pdf": "latex-workshop-pdf-hook"
     },
     "workbench.iconTheme": "vscode-icons",
-    "window.zoomLevel": -1,
     "html.format.indentInnerHtml": true,
     "html.format.extraLiners": "",
     "emmet.triggerExpansionOnTab": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "python.defaultInterpreterPath": "C:\\Users\\Vitor\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.defaultInterpreterPath": "C:\\Users\\Vitor\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
     "notebook.cellToolbarLocation": {
         "default": "right",
         "jupyter-notebook": "left"
@@ -32,6 +30,7 @@
     ],
     "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
     "editor.fontLigatures": "'ss03', 'ss05', 'ss06', 'ss07', 'ss08', 'zero'",
+    "editor.tabSize": 4,
     "liveshare.allowInvites": "all",
     "liveshare.alwaysFollowHost": true,
     "liveshare.notebooks.allowGuestExecuteCells": true,
@@ -43,6 +42,16 @@
         "**/.factorypath": true
     },
     "git.autofetch": true,
-    "workbench.colorTheme": "Kimbie Dark"
+    "workbench.colorTheme": "SynthWave '84",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": -1,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 
 }
